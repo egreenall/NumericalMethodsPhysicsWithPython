@@ -1,6 +1,6 @@
 # Author: Alex Gezerlis
 # Numerical Methods in Physics with Python (2nd ed., CUP, 2023)
-
+# hello Emma Greenall is also here
 import numpy as np
 
 def helpers(dataxs,datays,datasigs):
